@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fishfacts-react/static/css/main.84487ea8.css",
+    "main.js": "/fishfacts-react/static/js/main.cb5309a4.js",
+    "index.html": "/fishfacts-react/index.html",
+    "main.84487ea8.css.map": "/fishfacts-react/static/css/main.84487ea8.css.map",
+    "main.cb5309a4.js.map": "/fishfacts-react/static/js/main.cb5309a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.cb5309a4.js"
+  ]
+}
