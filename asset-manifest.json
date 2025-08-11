@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fishfacts-react/static/css/main.84487ea8.css",
-    "main.js": "/fishfacts-react/static/js/main.23f809eb.js",
+    "main.js": "/fishfacts-react/static/js/main.b6346b08.js",
     "static/media/leFishe.mp3": "/fishfacts-react/static/media/leFishe.7007db7440c298219552.mp3",
     "index.html": "/fishfacts-react/index.html",
     "main.84487ea8.css.map": "/fishfacts-react/static/css/main.84487ea8.css.map",
-    "main.23f809eb.js.map": "/fishfacts-react/static/js/main.23f809eb.js.map"
+    "main.b6346b08.js.map": "/fishfacts-react/static/js/main.b6346b08.js.map"
   },
   "entrypoints": [
     "static/css/main.84487ea8.css",
-    "static/js/main.23f809eb.js"
+    "static/js/main.b6346b08.js"
   ]
 }
